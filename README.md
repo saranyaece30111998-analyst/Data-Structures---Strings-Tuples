@@ -8,7 +8,7 @@ This repository contains Python implementations, examples, and explanations of f
 ## 📌 Contents
 
 ### Strings
-- Introduction to Strings[[[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]]
+- Introduction to Strings[[[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]
 - String indexing and slicing
 - Common string methods (`upper()`, `lower()`, `split()`, `join()`, etc.)
 - String formatting (`f-strings`, `format()`)
