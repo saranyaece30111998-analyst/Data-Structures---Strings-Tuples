@@ -1,7 +1,7 @@
 
 # Data Structures - Strings & Tuples
 
-This repository contains Python implementations, examples, and explanations of fundamental **data structures** focusing on **Strings** and **Tuples**. It is designed to help learners and professionals strengthen their understanding of these core concepts in Python
+This repository contains Python implementations, examples, and explanations of fundamental **data structures** focusing on **Strings** and **Tuples**. It is designed to help learners and professionals strengthen their understanding of these core concepts in Python.
 
 ---
 
